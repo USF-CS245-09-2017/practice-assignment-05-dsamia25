@@ -8,5 +8,5 @@
  */
 public interface SortingAlgorithm {
 
-	void sort(int [] a);
+    void sort(int [] a);
 }
